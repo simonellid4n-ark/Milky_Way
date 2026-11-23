@@ -10,3 +10,6 @@ Para conseguir rodar o jogo milky-way primeiro deve-se baixar as dependências c
 ## Rodando
 
 Entre no diretório do projeto e Execute ```python main.py```. 
+
+### Opcional
+Se quiser remontar os assets se houver algum problema, rode ```python generate_assets.py```
